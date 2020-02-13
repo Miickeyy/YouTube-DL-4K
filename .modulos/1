@@ -1,0 +1,5 @@
+#! /bin/bash
+echo ""
+echo ""
+toilet -f smblock --filter border:metal Suscribete |lolcat | pv -qL 800
+echo "https://www.youtube.com/channel/UCb1vwdwQcLr9OCfr7AVSlHA" |pv -qL 50

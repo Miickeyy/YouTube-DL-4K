@@ -1,0 +1,4 @@
+#! /bin/bash
+echo ""
+echo ""
+toilet -f smblock --filter border:gay Y o u T u b e-d l |pv -qL 750

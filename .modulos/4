@@ -1,0 +1,4 @@
+#! /bin/bash
+echo ""
+echo ""
+toilet -f future --filter border:gay YouTube-dl |lolcat | pv -qL 800

@@ -1,0 +1,4 @@
+#! /bin/bash
+echo ""
+echo ""
+toilet -f smblock --filter border:metal Y o u T u b e-d l |lolcat | pv -qL 750
