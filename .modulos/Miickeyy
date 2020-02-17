@@ -1,5 +1,5 @@
-setterm -foreground cyan
-cat << "EOF" |lolcat | pv -qL 200
+echo ""
+cat << "EOF" | pv -qL 200 | lolcat
 		╔╦══╦╦╦═╦╦═══════╗
 		║║║║╠╬╬═╣╠╦═╦╦╦╦╗║
 		║║║║║║║╠╣╗║╩╣║║║║║
